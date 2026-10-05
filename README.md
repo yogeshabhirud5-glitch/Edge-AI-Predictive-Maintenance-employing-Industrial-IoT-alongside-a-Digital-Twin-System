@@ -1,0 +1,1 @@
+# Edge-AI-Predictive-Maintenance-employing-Industrial-IoT-alongside-a-Digital-Twin-System
